@@ -151,7 +151,7 @@ const GameSearch = () => {
   };
 
   const loadMore = () => loadGames(page + 1);
-  const handleHomeClick = () => (window.location.href = "/");
+  const handleHomeClick = () => (window.location.href = "https://mikhailmonkhorov.github.io/GameSearch/");
 
   return (
     <>
